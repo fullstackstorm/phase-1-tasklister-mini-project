@@ -1,0 +1,5 @@
+Stage 1:
+Get the form
+Attach an event listener to the form
+Get the task from the input
+Add to the list / display the data
